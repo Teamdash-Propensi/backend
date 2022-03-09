@@ -6,6 +6,7 @@
 | ----------| --- | ---------- | 
 | 1906298916 | Fiorentine Phillips | Lead Designer |
 | 1906353630 | Benitho Ahmad Suryo | Lead Analyst |
+| 1906302516 | Affan Mirza Chairy | Scrum Master |
 
 ## Getting started
 
