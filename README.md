@@ -5,6 +5,7 @@
 | NPM | Nama Lengkap | Role |
 | ----------| --- | ---------- | 
 | 1906298916 | Fiorentine Phillips | Lead Designer |
+| 1906353630 | Benitho Ahmad Suryo | Lead Analyst |
 
 ## Getting started
 
