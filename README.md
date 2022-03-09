@@ -1,6 +1,10 @@
 # D03
 
 
+## Authors
+| NPM | Nama Lengkap | Role |
+| ----------| --- | ---------- | 
+| 1906298916 | Fiorentine Phillips | Lead Designer |
 
 ## Getting started
 
